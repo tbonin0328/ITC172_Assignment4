@@ -1,0 +1,12 @@
+﻿body {
+
+}
+
+h1
+{
+    background-color:navy;
+    color:white;
+    border-bottom:5px solid black;
+    text-align:center;
+    max-width:70%;
+}
